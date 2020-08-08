@@ -1,7 +1,7 @@
 # CBC_NewsArticles
 LDA on 7000 news articles from CBC Canada website.
 
-Note: The project was made entirely on google colab
+Note: This project was made entirely on google colab
 
 1. The project comprises of 3 jupyter notebooks
   - Data_cleaning.ipynb 
