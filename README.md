@@ -13,6 +13,8 @@ Note: This project was made entirely on google colab
   - Model_visualization.ipynb
   This notebook uses pyLDAvis toolset to visualize the selected LDA model and draw other insights which help in better understanding the different topics.
 
+NOTE: Click on the "Open in Colab" button in the .ipynb files to access them in an interactive google colab environment.
+
 2. The data set used is stored as a csv file in CA_news.zip
 
 3. Files named- corpus.pkl, dictionary.gensim, text_data.pkl are files created in Data_cleaning.ipynb and are used to create LDA models later on.
