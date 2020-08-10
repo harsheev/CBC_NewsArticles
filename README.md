@@ -31,3 +31,8 @@ NLTK
 Random
 Pickle
 pyLDAvis
+
+References:
+- https://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf 
+- https://www.os3.nl/_media/2017-2018/courses/rp2/p76_report.pdf       
+- https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ 
