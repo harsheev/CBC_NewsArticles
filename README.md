@@ -22,14 +22,14 @@ NOTE: Click on the "Open in Colab" button in the .ipynb files to access them in 
 4. Files ending in .gensim, .gensim.expElogbeta.npy, .gensim.id2word, .gensim.state were created in Creating_models.ipynb by the gensim library while creating different models.
 
 LIBRARIES USED:
-Pandas
-Numpy
-Matplotlib
-Gensim
-Spacy
-NLTK
-Random
-Pickle
+Pandas,
+Numpy,
+Matplotlib,
+Gensim,
+Spacy,
+NLTK,
+Random,
+Pickle,
 pyLDAvis
 
 References:
